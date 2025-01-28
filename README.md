@@ -80,23 +80,18 @@ Once you have completed these installation steps, you are ready to use the OpenU
 
 ## Usage
 
-1.  **Save the script:** Save the Python code (`main.py`) to your desired location.
-2.  **Run the script:** Open your terminal or command prompt, navigate to the directory where you saved `main.py`, and run the script:
+1.  **Open File** Run `run.bat` or `main.py`
 
-    ```bash
-    python main.py
-    ```
+2.  **Follow the prompts:** The script will guide you through the harmony generation process:
 
-3.  **Follow the prompts:** The script will guide you through the harmony generation process:
-
-    *   **Enter the path to your USTx file:** Provide the path to the `.ustx` file you want to process. You can type the path or drag and drop the file into the terminal. Brackets in the path will be automatically removed, and the `.ustx` extension will be added if missing.
-    *   **Select track numbers:**  Choose the tracks for which you want to create harmonies by entering their numbers separated by commas (e.g., `1,2` or `1`).
-    *   **Select harmony type:** Choose `1` for lower harmony, `2` for upper harmony, or `3` for both.
+    *   **Enter the path to your USTx file:** Provide the path to the `.ustx` file you want to process.
+    *   **Enter the path to output USTx file:** Provide the path to the output `.ustx` file.
+    *   **Select track numbers:**  Choose the tracks for which you want to create harmonies.
+    *   **Select harmony type:** Choose `Lower`, `Upper` or `Both` Harmonies mode.
     *   **Enter semitone interval:**  Input the semitone interval for the harmony (e.g., `3` for major third, `4` for major third, `7` for perfect fifth).
-    *   **Manual key selection?** Choose 'y' if you want to manually select the key and mode, or 'n' (or just press Enter) to use automatic key detection. If you choose manual, you'll be prompted to select the key and mode from lists.
-    *   **Enter the path to save the new USTx file:**  Provide a path and filename for the new USTx file that will contain the harmony tracks. Again, brackets will be removed and the `.ustx` extension added if needed.
-
-4.  **Import into OpenUtau:** Open the newly created `.ustx` file in OpenUtau. You will find new tracks added with the generated harmony parts.
+    *   **Run generator:** Click on `Generate Harmonies` button.
+    *   
+3.  **Import into OpenUtau:** Open the newly created `.ustx` file in OpenUtau. You will find new tracks added with the generated harmony parts.
 
 ## Limitations
 
