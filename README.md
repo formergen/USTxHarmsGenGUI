@@ -1,6 +1,8 @@
 
 # OpenUtau USTx Auto Harmony Generator
 
+https://github.com/user-attachments/assets/39e84315-b6c1-4ff0-ac62-141edb8ac792
+
 ## Description
 
 This Python script is designed to automatically generate harmony parts for USTx files, a MIDI-like format used by OpenUtau and similar vocal synthesis software. It analyzes the notes in your USTx file, detects the key (major or minor), and creates new tracks with harmony notes (lower, upper, or both) based on a user-defined semitone interval.
