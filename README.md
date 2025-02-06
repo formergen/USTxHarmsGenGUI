@@ -1,9 +1,7 @@
 
 # OpenUtau USTx Auto Harmony Generator
 
-[https://github.com/user-attachments/assets/39e84315-b6c1-4ff0-ac62-141edb8ac792](https://github.com/user-attachments/assets/afa9f0e0-3fc7-45d8-a278-933824639f15
-
-)
+https://github.com/user-attachments/assets/afa9f0e0-3fc7-45d8-a278-933824639f15
 
 ## Description
 
